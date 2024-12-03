@@ -4,7 +4,7 @@
     o🌍 Travelling
     o🚀 Training,
     o🔍 Exploring and learning new things.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently working as Data Analyst.
 - 💞️ I’m looking to collaborate on
     o📊 Projects
     o🚁 Non-profit Skill Building Organization
